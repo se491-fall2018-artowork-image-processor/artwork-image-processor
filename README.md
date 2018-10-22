@@ -15,6 +15,7 @@ Python 3.6
 Django 2.1.2
 Tensorflow 1.10
 Bootstrap 4.1.3
+Pillow 5.0.0
 ```
 
 ### Installing
