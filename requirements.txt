@@ -3,3 +3,7 @@
 # pyperclip
 # pygame
 pillow
+Django 
+django-heroku 
+gunicorn 
+tensorflow
